@@ -2,4 +2,4 @@
 
 ## About Neomic
 
-![Neomic](https://imgur.com/a/j5wsbvU)
+![Neomic](https://imgur.com/K5q9ORg)
