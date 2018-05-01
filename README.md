@@ -2,4 +2,5 @@
 
 ## About Neomic
 
-![Neomic](https://i.imgur.com/sLAUEWw.png) {:height="50%" width="50%"}
+
+<img src="https://i.imgur.com/sLAUEWw.png" width="50" height="50">
